@@ -1,0 +1,89 @@
+body{
+    background: #E5E5E5;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.version{
+margin-top: 10px;
+margin-left: 20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #0B2239;
+opacity: 0.3;
+}
+
+.mainText{
+margin-top: 7px;
+margin-left: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 110px;
+line-height: 133px;
+color: #0B2239;
+}
+
+.MyName{
+margin-top: 17px;
+margin-left: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #0B2239;
+opacity: 0.3;
+}
+
+.CookieBanners{
+    margin-top: 262px;
+    margin-left: 24px;
+    position: absolute;
+    width: 1123px;
+    height: 133px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 110px;
+    line-height: 133px;
+    display: flex;
+    align-items: center;
+    color: #0B2239;
+}
+
+.footer1{
+    margin-top: 425px;
+}
+
+.footer2{
+    margin-top: 24px;
+}
+
+.footer3{
+    margin-top: 72px;
+   
+}
+
+.footer4{
+    margin-top: 24px;
+}
+
+.footer6{
+    margin-left: 40px;
+}
+
+.footer8{
+    margin-left: 40px;
+}
+
+.footer5, .footer6, .footer7, .footer8 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 72px;
+}
