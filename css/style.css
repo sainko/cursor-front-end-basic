@@ -77,20 +77,21 @@ h2{
     height: 60px;
     border-radius: 6px;
     border: 1px solid #333333;
+   padding-left: 31px;
 }
 .row{
     margin-top: 117px;
 }
 .row input{
-    width: 45%;
+    width: 40%;
 }
 
 .last-in-row{
-    margin-left: 37px;
+    margin-left: 10px;
 }
 .block-input{
     display: block;
-    width: 97%;
+    width: 87%;
     margin-top: 24px;
 }
 
